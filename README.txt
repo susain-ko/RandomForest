@@ -1,0 +1,1 @@
+This repository contains codes used for data preprocessing and run of Random Forest algorithm on M&A prediction project.
